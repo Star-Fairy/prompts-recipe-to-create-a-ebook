@@ -34,12 +34,11 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Quais ebooks eu posso fazer de uma forma mais fácil com tudo que sabe sobre mim?                                                         |
-| conteúdo | Faça um arquivo Word sobre o que está abaixo:
-Vamos focar no 6 - Manual de Criatividade e Originalidade! Ebook completo. Quais seriam todos os capítulos (com texto explicativo em cada capítulo e sub capítulos e outros), com base em mim, claro. Mas com dados relevantes e de uma forma leve e simples, mas com um grau de profundidade apurada, (com base estrutural e tamanho de texto e tal no meu ebook Libere Sua Mente revisado) com, clareza e coesão.
- |
+|  Título  | Quais ebooks eu posso fazer de uma forma mais fácil com tudo que sabe sobre mim?                                                                                                                                                                                               |
+| Conteúdo | Faça um arquivo Word sobre o que está abaixo: Vamos focar no 6 - Manual de Criatividade e Originalidade! Ebook completo. Quais seriam todos os capítulos (com texto explicativo em cada capítulo e subcapítulos e outros), com base em mim, claro. Mas com dados relevantes e de uma forma leve e simples, mas com um grau de profundidade apurada, (com base estrutural e tamanho de texto e tal no meu ebook Libere Sua Mente revisado) com clareza e coesão. |
+
 
 
 Midjourney：
