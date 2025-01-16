@@ -72,29 +72,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/77538061?s=400&u=fc40ab2af72849a33bf5c0180c920841225f9c84&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Star-Fairy">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-  
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/77538061?s=400&u=fc40ab2af72849a33bf5c0180c920841225f9c84&v=4"
-    />
     <p>&nbsp&nbsp&nbspStella Benoliel<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Star-Fairy">
