@@ -26,8 +26,8 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [Leonar.AI](https://leonardo.ai/)
+- [WORD]
 
 ## 🧠 Prompts
 
@@ -36,8 +36,10 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Quais ebooks eu posso fazer de uma forma mais fácil com tudo que sabe sobre mim?                                                         |
+| conteúdo | Faça um arquivo Word sobre o que está abaixo:
+Vamos focar no 6 - Manual de Criatividade e Originalidade! Ebook completo. Quais seriam todos os capítulos (com texto explicativo em cada capítulo e sub capítulos e outros), com base em mim, claro. Mas com dados relevantes e de uma forma leve e simples, mas com um grau de profundidade apurada, (com base estrutural e tamanho de texto e tal no meu ebook Libere Sua Mente revisado) com, clareza e coesão.
+ |
 
 
 Midjourney：
