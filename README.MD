@@ -50,7 +50,9 @@ Leonard.AI：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Revisado pelo Copilot
+- Revisto e Adicionado Conteúdo por mim mesma
+- Imagens geradas via Leonard AI
 
 ## 📚 Materiais
 
@@ -86,4 +88,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Stella Benoliel](https://github.com/felipeAguiarCode)
