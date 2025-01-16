@@ -74,7 +74,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/settings/profile">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
 felipe-exe">LinkedIn</a>
