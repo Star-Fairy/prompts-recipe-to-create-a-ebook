@@ -70,7 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/77538061?s=400&u=fc40ab2af72849a33bf5c0180c920841225f9c84&v=4"
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
