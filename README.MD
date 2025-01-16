@@ -79,10 +79,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://www.linkedin.com/in/stella-benoliel-868b38152/">LinkedIn</a>
 &nbsp;
   
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 
 
