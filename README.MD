@@ -45,7 +45,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A vibrant and illuminating piece of art exuding creative energy, featuring a young woman surrounded by symbolic elements of ideas. The image portrays a young woman with long flowing hair and a thoughful expression, encompassed by various objects representing creativity and originality. This artwork, realistic style, captures the essence of youthful inspiration. showcasing the artist's skill and vision in a captivating way. |
 
 ## ✨ Features
 
