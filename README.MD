@@ -84,7 +84,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <br/><br/>
 <p>
 
----
 
 
 ⌨️ com 💜 por [Stella Benoliel](https://github.com/Star-Fairy)
