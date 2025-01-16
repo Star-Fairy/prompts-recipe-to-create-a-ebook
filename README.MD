@@ -88,4 +88,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Stella Benoliel](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Stella Benoliel](https://github.com/Star-Fairy)
