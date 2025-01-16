@@ -11,7 +11,7 @@
 
 
 
-1 - DIVULGAÇÃO.png
+![Cover](https://github.com/Star-Fairy/prompts-recipe-to-create-a-ebook/blob/main/.github/assets/1%20-%20DIVULGA%C3%87%C3%83O.png?raw=true)
 
 # Projeto EBOOK Gerado por I.A.s
 
