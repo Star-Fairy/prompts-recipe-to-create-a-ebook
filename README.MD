@@ -27,7 +27,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonar.AI](https://leonardo.ai/)
-- [WORD]
+- [WORD] (https://word.cloud.microsoft/?wdOrigin=MARKETING.FREE.GO-TO-WORD)
 
 ## 🧠 Prompts
 
